@@ -2,7 +2,7 @@ name = infoacharya_profile
 description = Install with commonly used features pre-configured.
 version = VERSION
 distribution_name = inforacharya_profile
-core = 7.x
+core = 8.x
 
 
 dependencies[] = block
