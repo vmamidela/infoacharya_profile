@@ -10,8 +10,8 @@ core = 8.x
 projects[examples][version] = "1.x-dev"
 projects[examples][subdir] = contrib
 
-projects[admin_menu][version] = "3.0-rc4"
-projects[admin_menu][subdir] = contrib
+;projects[admin_menu][version] = "3.0-rc4"
+;projects[admin_menu][subdir] = contrib
 
 projects[better_exposed_filters][version] = "3.0-beta4"
 projects[better_exposed_filters][subdir] = contrib
