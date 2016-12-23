@@ -88,13 +88,13 @@ projects:
     subdir: "contrib"            
   omega: 
     type: "theme"
-    version:  "4.2"
+    version: ~
   zen:
     type: "theme"
-    version: "5.5"
+    version: ~
   business_responsive_theme:
     type: "theme"
-    version: "1.2"
+    version: ~
 
 
 
