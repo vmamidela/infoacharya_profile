@@ -17,9 +17,9 @@ projects:
   #better_exposed_filters:
   #  version: "3.0-beta4"
   #  subdir: "contrib"            
-  ctools:
-    version: "1.4"
-    subdir: "contrib"            
+  #ctools:
+  #  version: "1.4"
+  #  subdir: "contrib"            
   coffee: 
     version: "2.2"
     subdir: "contrib"            
