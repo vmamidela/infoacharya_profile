@@ -71,15 +71,15 @@ projects:
   #webform_features:
   #  version: ~
   #  subdir: "contrib"            
-  wysiwyg:
-    version: ~
-    subdir: "contrib"            
-  wysiwyg_spellcheck:
-    version: ~
-    subdir: "contrib"            
-  wysiwyg_linebreaks:
-    version: ~
-    subdir: "contrib"            
+  #wysiwyg:
+  #  version: ~
+  #  subdir: "contrib"            
+  #wysiwyg_spellcheck:
+  #  version: ~
+  #  subdir: "contrib"            
+  #wysiwyg_linebreaks:
+  #  version: ~
+  #  subdir: "contrib"            
   #wysiwyg_boxout:
   #  version: 1.1
   #  subdir: "contrib"            
