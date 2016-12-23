@@ -12,7 +12,7 @@ projects:
     version: "1.x-dev"
     subdir: "contrib"            
   admin_menu:
-    version: "3.0-rc4"
+    version: ~
     subdir: "contrib"            
   better_exposed_filters:
     version: "3.0-beta4"
@@ -29,17 +29,17 @@ projects:
   devel:
     version: "1.5"
     subdir: "contrib"            
-  featuresi: 
-    version: "2.2"
+  features: 
+    version: ~
     subdir: "contrib"            
   jquery_update:
-    version: "2.4"
+    version: ~
     subdir: "contrib"            
   libraries:
     version: "2.2"
     subdir: "contrib"            
-  linki:
-    version: "1.2"
+  link:
+    version: ~
     subdir: "contrib"            
   nice_menus:
     version: "2.5"
@@ -51,10 +51,10 @@ projects:
     version: "1.5"
     subdir: "contrib"            
   systeminfo:
-    version: "3.0-beta1"
+    version: ~
     subdir: "contrib"            
   tableofcontents:
-    version: "2.x-dev"
+    version: ~
     subdir: "contrib"            
   taxonomy_menu:
     version: "1.5"
@@ -69,16 +69,16 @@ projects:
     version: "4.0"
     subdir: "contrib"            
   webform_features:
-    version: "3.0-beta3"
+    version: ~
     subdir: "contrib"            
   wysiwyg:
-    version: "2.2"
+    version: ~
     subdir: "contrib"            
   wysiwyg_spellcheck:
-    version: 1.1
+    version: ~
     subdir: "contrib"            
   wysiwyg_linebreaks:
-    version: 1.6
+    version: ~
     subdir: "contrib"            
   wysiwyg_boxout:
     version: 1.1
