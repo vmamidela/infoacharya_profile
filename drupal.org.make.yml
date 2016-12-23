@@ -14,9 +14,9 @@ projects:
   admin_menu:
     version: ~
     subdir: "contrib"            
-  better_exposed_filters:
-    version: "3.0-beta4"
-    subdir: "contrib"            
+  #better_exposed_filters:
+  #  version: "3.0-beta4"
+  #  subdir: "contrib"            
   ctools:
     version: "1.4"
     subdir: "contrib"            
@@ -32,9 +32,9 @@ projects:
   features: 
     version: ~
     subdir: "contrib"            
-  jquery_update:
-    version: ~
-    subdir: "contrib"            
+  #jquery_update:
+  #  version: ~
+  #  subdir: "contrib"            
   libraries:
     version: "2.2"
     subdir: "contrib"            
@@ -50,12 +50,12 @@ projects:
   responsive_menus:
     version: "1.5"
     subdir: "contrib"            
-  systeminfo:
-    version: ~
-    subdir: "contrib"            
-  tableofcontents:
-    version: ~
-    subdir: "contrib"            
+  #systeminfo:
+  #  version: ~
+  #  subdir: "contrib"            
+  #tableofcontents:
+  #  version: ~
+  #  subdir: "contrib"            
   taxonomy_menu:
     version: "1.5"
     subdir: "contrib"            
@@ -68,21 +68,21 @@ projects:
   webform:
     version: "4.0"
     subdir: "contrib"            
-  webform_features:
-    version: ~
-    subdir: "contrib"            
-  wysiwyg:
-    version: ~
-    subdir: "contrib"            
-  wysiwyg_spellcheck:
-    version: ~
-    subdir: "contrib"            
-  wysiwyg_linebreaks:
-    version: ~
-    subdir: "contrib"            
-  wysiwyg_boxout:
-    version: 1.1
-    subdir: "contrib"            
+  #webform_features:
+  #  version: ~
+  #  subdir: "contrib"            
+  #wysiwyg:
+  #  version: ~
+  #  subdir: "contrib"            
+  # wysiwyg_spellcheck:
+  # version: ~
+  # subdir: "contrib"            
+  #wysiwyg_linebreaks:
+  # version: ~
+  # subdir: "contrib"            
+  #wysiwyg_boxout:
+  #  version: 1.1
+  #  subdir: "contrib"            
   views_slideshow:
     version: 3.1
     subdir: "contrib"            
