@@ -14,12 +14,12 @@ projects:
   admin_menu:
     version: ~
     subdir: "contrib"            
-  #better_exposed_filters:
-  #  version: "3.0-beta4"
-  #  subdir: "contrib"            
-  #ctools:
-  #  version: "1.4"
-  #  subdir: "contrib"            
+  better_exposed_filters:
+    version: ~
+    subdir: "contrib"            
+  ctools:
+    version: ~
+    subdir: "contrib"            
   coffee: 
     version: ~
     subdir: "contrib"            
@@ -38,9 +38,9 @@ projects:
   libraries:
     version: ~
     subdir: "contrib"            
-  link:
-    version: ~
-    subdir: "contrib"            
+  #link:
+  #  version: ~
+  #  subdir: "contrib"            
   nice_menus:
     version: ~
     subdir: "contrib"            
