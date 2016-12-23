@@ -9,7 +9,7 @@ core:  8.x
 
 projects:
   examples:
-    version: "1.x-dev"
+    version: ~
     subdir: "contrib"            
   admin_menu:
     version: ~
@@ -21,13 +21,13 @@ projects:
   #  version: "1.4"
   #  subdir: "contrib"            
   coffee: 
-    version: "2.2"
+    version: ~
     subdir: "contrib"            
   context: 
-    version: "3.2"
+    version: ~
     subdir: "contrib"            
   devel:
-    version: "1.5"
+    version: ~
     subdir: "contrib"            
   features: 
     version: ~
@@ -36,19 +36,19 @@ projects:
   #  version: ~
   #  subdir: "contrib"            
   libraries:
-    version: "2.2"
+    version: ~
     subdir: "contrib"            
   link:
     version: ~
     subdir: "contrib"            
   nice_menus:
-    version: "2.5"
+    version: ~
     subdir: "contrib"            
   pathauto:
-    version: "1.2"
+    version: ~
     subdir: "contrib"            
   responsive_menus:
-    version: "1.5"
+    version: ~
     subdir: "contrib"            
   #systeminfo:
   #  version: ~
@@ -57,16 +57,16 @@ projects:
   #  version: ~
   #  subdir: "contrib"            
   taxonomy_menu:
-    version: "1.5"
+    version: ~
     subdir: "contrib"            
   token:
-    version: "1.5"
+    version: ~
     subdir: "contrib"            
   views:
-    version: "3.8"
+    version: ~
     subdir: "contrib"            
   webform:
-    version: "4.0"
+    version: ~
     subdir: "contrib"            
   #webform_features:
   #  version: ~
@@ -84,7 +84,7 @@ projects:
   #  version: 1.1
   #  subdir: "contrib"            
   views_slideshow:
-    version: 3.1
+    version: ~
     subdir: "contrib"            
   omega: 
     type: "theme"
