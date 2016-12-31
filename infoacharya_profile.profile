@@ -11,5 +11,11 @@
  */
 function infoacharya_profile_form_install_configure_form_alter(&$form, $form_state) {
   // Pre-populate the site name with the server name.
-  $form['site_information']['site_name']['#default_value'] = $_SERVER['SERVER_NAME'];
+  if (isset($_SERVER['SERVER_NAME'])) {
+        $site_name = $_SERVER['SERVER_NAME'];
+  } else {
+        $site_name = $_SERVER['HTTP_HOST'];
+  }
+  $form['site_information']['site_name']['#default_value'] = $site_name;
+  $form['site_information']['site_mail']['#default_value'] = $site_name;
 }
