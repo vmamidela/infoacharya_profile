@@ -50,6 +50,21 @@ dependencies:
   - views_ui
   - menu_link_content
   - views
+  - examples
+  - admin_menu
+  - better_exposed_filters
+  - ctools
+  - coffee
+  - context
+  - devel
+  - features
+  - nice_menus
+  - pathauto
+  - responsive_menus
+  - taxonomy_menu
+  - token
+  - webform
+  - views_slideshow
 
 themes:
   - stable
