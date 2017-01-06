@@ -11,9 +11,18 @@ projects:
   examples:
     version: ~
     subdir: "contrib"            
-  admin_menu:
+  module_filter:
     version: ~
     subdir: "contrib"            
+  admin_toolbar:
+    version: ~
+    subdir: "contrib"            
+  admin_toolbar_tools:
+    version: ~
+    subdir: "contrib"            
+  #admin_menu:
+  #  version: ~
+  #  subdir: "contrib"            
   better_exposed_filters:
     version: ~
     subdir: "contrib"            

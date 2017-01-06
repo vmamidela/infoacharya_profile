@@ -51,7 +51,9 @@ dependencies:
   - menu_link_content
   - views
   - examples
-  - admin_menu
+  - admin_toolbar
+  - module_filter
+  - admin_toolbar_tools
   - better_exposed_filters
   - ctools
   - coffee
