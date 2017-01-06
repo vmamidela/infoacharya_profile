@@ -20,9 +20,6 @@ projects:
   admin_toolbar_tools:
     version: ~
     subdir: "contrib"            
-  #admin_menu:
-  #  version: ~
-  #  subdir: "contrib"            
   better_exposed_filters:
     version: ~
     subdir: "contrib"            
