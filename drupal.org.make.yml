@@ -17,9 +17,9 @@ projects:
   admin_toolbar:
     version: ~
     subdir: "contrib"            
-  admin_toolbar_tools:
-    version: ~
-    subdir: "contrib"            
+# admin_toolbar_tools:
+#    version: ~
+#    subdir: "contrib"            
   better_exposed_filters:
     version: ~
     subdir: "contrib"            
