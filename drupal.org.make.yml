@@ -38,18 +38,18 @@ projects:
   features: 
     version: ~
     subdir: "contrib"            
-  config_update_ui:
-    version: ~
-    subdir: "contrib"            
+  #config_update_ui:
+  #  version: ~
+  #  subdir: "contrib"            
   config_update:
     version: ~
     subdir: "contrib"            
   features:
     version: ~
     subdir: "contrib"            
-  features_ui:
-    version: ~
-    subdir: "contrib"            
+  #features_ui:
+  #  version: ~
+  #  subdir: "contrib"            
   #jquery_update:
   #  version: ~
   #  subdir: "contrib"            
