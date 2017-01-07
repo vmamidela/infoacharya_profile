@@ -15,7 +15,8 @@ projects:
     version: ~
     subdir: "contrib"            
   admin_menu:
-    patch: "https://www.drupal.org/files/issues/admin-menu-php-fatal-errors-2563867-27-8.3.x.patch"
+    patch: 
+      - "https://www.drupal.org/files/issues/admin-menu-php-fatal-errors-2563867-27-8.3.x.patch"
   admin_toolbar:
     version: ~
     subdir: "contrib"            
