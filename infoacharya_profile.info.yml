@@ -65,6 +65,11 @@ dependencies:
   - views_slideshow
   - admin_toolbar
   - admin_toolbar_tools
+  - module_filter
+  - config_update_ui
+  - config_update
+  - features
+  - features_ui
 
 themes:
   - stable
