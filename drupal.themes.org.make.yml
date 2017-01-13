@@ -1,0 +1,22 @@
+# Thi File is the include file for themes 
+api:  2
+
+# Define Drupal Core
+core:  8.x
+
+# Drupal themes 
+
+
+projects:
+  omega: 
+    type: "theme"
+    version: ~
+  zen:
+    type: "theme"
+    version: ~
+  business_responsive_theme:
+    type: "theme"
+    version: ~
+  adminimal_theme:
+    type: "theme"
+    version: ~

@@ -112,6 +112,9 @@ projects:
   business_responsive_theme:
     type: "theme"
     version: ~
+  adminimal_theme:
+    type: "theme"
+    version: ~
 
 
 

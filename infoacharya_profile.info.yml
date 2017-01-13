@@ -70,6 +70,9 @@ dependencies:
   - config_update
   - features
   - features_ui
+  - simple_sitemap
+  - metatag
+  - colorbox
 
 themes:
   - stable
@@ -77,3 +80,4 @@ themes:
   - bartik
   - seven
   - business_responsive_theme
+  - adminimal_theme

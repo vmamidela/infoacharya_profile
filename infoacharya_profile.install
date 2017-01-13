@@ -19,7 +19,7 @@ use Drupal\shortcut\Entity\Shortcut;
 function infoacharya_profile_install() {
   // Set front page to "node".
   \Drupal::configFactory()->getEditable('system.site')->set('page.front', '/node')->save(TRUE);
-  \Drupal::configFactory()->getEditable('system.theme')->set('admin', 'bartik')->save(TRUE);
+  \Drupal::configFactory()->getEditable('system.theme')->set('admin', 'adminimal_theme')->save(TRUE);
   \Drupal::configFactory()->getEditable('system.theme')->set('default', 'business_responsive_theme')->save(TRUE);
 
   // Allow visitor account creation with administrative approval.

@@ -1,0 +1,105 @@
+# Thi File is the include file containing all the contrib modules needed for distro build 
+api:  2
+
+# Define Drupal Core
+core:  8.x
+
+# Contrib modules
+
+
+projects:
+  examples:
+    version: ~
+    subdir: "contrib"            
+  admin_menu:
+    version: ~
+    subdir: "contrib"            
+  admin_menu:
+    subdir: "contrib"            
+  admin_toolbar:
+    version: ~
+    subdir: "contrib"            
+  better_exposed_filters:
+    version: ~
+    subdir: "contrib"            
+  module_filter:
+    version: ~
+    subdir: "contrib"            
+  ctools:
+    version: ~
+    subdir: "contrib"            
+  coffee: 
+    version: ~
+    subdir: "contrib"            
+  context: 
+    version: ~
+    subdir: "contrib"            
+  devel:
+    version: ~
+    subdir: "contrib"            
+  features: 
+    version: ~
+    subdir: "contrib"            
+  #config_update_ui:
+  #  version: ~
+  #  subdir: "contrib"            
+  config_update:
+    version: ~
+    subdir: "contrib"            
+  features:
+    version: ~
+    subdir: "contrib"            
+  #features_ui:
+  #  version: ~
+  #  subdir: "contrib"            
+  #jquery_update:
+  #  version: ~
+  #  subdir: "contrib"            
+  libraries:
+    version: ~
+    subdir: "contrib"            
+  #link:
+  #  version: ~
+  #  subdir: "contrib"            
+  nice_menus:
+    version: ~
+    subdir: "contrib"            
+  pathauto:
+    version: ~
+    subdir: "contrib"            
+  responsive_menus:
+    version: ~
+    subdir: "contrib"            
+  #systeminfo:
+  #  version: ~
+  #  subdir: "contrib"            
+  #tableofcontents:
+  #  version: ~
+  #  subdir: "contrib"            
+  taxonomy_menu:
+    version: ~
+    subdir: "contrib"            
+  token:
+    version: ~
+    subdir: "contrib"            
+  views:
+    version: ~
+    subdir: "contrib"            
+  webform:
+    version: ~
+    subdir: "contrib"            
+  simple_sitemap:
+    version: ~
+    subdir: "contrib"
+  metatag:
+    version: ~
+    subdir: "contrib"
+  colorbox:
+    version: ~
+    subdir: "contrib"
+  #webform_features:
+  #  version: ~
+  #  subdir: "contrib"            
+  views_slideshow:
+    version: ~
+    subdir: "contrib"            

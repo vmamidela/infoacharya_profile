@@ -1,9 +1,12 @@
-# Thi File is to Build The Drupal 7 distro
+# This is the Main make file  to Build The Drupal 8 distro
+# Drush automatically detects the make file having extension as make.yml prefixed with its profile name.
 api: 2
 
 # Define Drupal Core
 core: 8.x
 
 includes:
-  - drupal.org.make.yml
+  - drupal.contrib.org.make.yml
+  - drupal.themes.org.make.yml
+  - drupal.libraries.org.make.yml
   - patches.make
