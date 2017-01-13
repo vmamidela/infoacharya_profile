@@ -24,11 +24,11 @@ libraries:
       type: "get"
       url: "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.11/ckeditor_4.5.11_standard.zip"
     directory_name: "ckeditor"
-  codemirror:
-    download:
-      type: "get"
-      url: " https://github.com/components/codemirror/archive/5.21.0.zip"
-    directory_name: "codemirror"
+  #codemirror:
+  #  download:
+  #    type: "get"
+  #    url: " https://github.com/components/codemirror/archive/5.21.0.zip"
+  #  directory_name: "codemirror"
   geocomplete:
     download:
       type: "get"
