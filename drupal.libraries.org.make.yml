@@ -26,46 +26,46 @@ libraries:
     directory_name: "ckeditor"
   codemirror:
     download:
-      type: "git"
+      type: "get"
       url: " https://github.com/components/codemirror/archive/5.21.0.zip"
     directory_name: "codemirror"
   geocomplete:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/ubilabs/geocomplete.git"
     directory_name: "geocomplete"
   jquery.inputmask:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/RobinHerbots/jquery.inputmask/archive/3.3.3.zip"
     directory_name: "jquery.inputmask"
   jquery-timepicker:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/jonthornton/jquery-timepicker/archive/1.11.8.zip"
     directory_name: "jquery-timepicker"
   jquery-toggles:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/simontabor/jquery-toggles/archive/v4.0.0.zip"
     directory_name: "jquery-toggles"
   word-and-character-counter:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/qwertypants/jQuery-Word-and-Character-Counter-Plugin/archive/2.3.5.zip"
     directory_name: "word-and-character-counter"
   rateit:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/gjunge/rateit.js/archive/1.1.1.zip"
     directory_name: "rateit"
   select2:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/select2/select2/archive/4.0.3.zip"
     directory_name: "select2"
   signature_pad:
     download:
-      type: "git"
+      type: "get"
       url: "https://github.com/szimek/signature_pad/archive/v1.5.3.zip"
     directory_name: "signature_pad"
